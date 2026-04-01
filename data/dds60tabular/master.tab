@@ -1,0 +1,543 @@
+Sort Order	Code	Name	Contact					
+1	1	Former Soviet Union						
+2	1008	Timan-Pechora Basin						
+3	100801	Domanik-Paleozoic						
+4	10080101	Northwest Izhma-Pechora Depression	G. F. Ulmishek					
+5	10080102	Main Basin Platform	G. F. Ulmishek					
+6	10080103	Foredeep Basins	G. F. Ulmishek					
+7	1009	Dnieper-Donets Basin						
+8	100901	Dnieper-Donets Paleozoic						
+9	10090101	Carboniferous-Lower Permian Clastics	G. F. Ulmishek					
+10	10090102	Devonian Synrift	G. F. Ulmishek					
+11	10090103	Continuous Basin-Centered Gas Accumulation	G. F. Ulmishek					
+12	1015	Volga-Ural Region						
+13	101501	Volga-Ural Domanik-Paleozoic						
+14	10150101	Supra-Domanik Carbonates/Clastics	G. F. Ulmishek					
+15	10150102	Lower Volga	G. F. Ulmishek					
+16	10150103	Sub-Domanik Devonian Clastics	G. F. Ulmishek			
+17	10150104	Self-Sourced Domanik	G. F. Ulmishek			
+18	101502	Belsk Basin				
+19	10150201	Permian Reefs/Thrust Folds	G. F. Ulmishek			
+20	1016	North Caspian Basin				
+21	101601	Paleozoic North Caspian				
+22	10160101	North and West Margins Subsalt Pinnacle Reefs	G. F. Ulmishek			
+23	10160102	North and West Margins Subsalt Barrier Reefs	G. F. Ulmishek			
+24	10160103	East and Southeast Margins Subsalt	G. F. Ulmishek			
+25	10160104	South Margin Subsalt	G. F. Ulmishek			
+26	10160105	Basin Center Subsalt	G. F. Ulmishek			
+27	10160106	Suprasalt	G. F. Ulmishek			
+28	1050	South Barents Basin				
+29	105001	South and North Barents Triassic-Jurassic				
+30	10500101	Kolguyev Terrace	G. F. Ulmishek			
+31	10500102	South Barents and Ludlov Saddle	G. F. Ulmishek			
+32	10500103	North Barents	G. F. Ulmishek			
+33	1060	North Barents Basin				
+34	1108	Azov-Kuban Basin				
+35	110801	Azov-Kuban Mesozoic-Cenozoic				
+36	11080101	Tertiary Foredeep	G. F. Ulmishek			
+37	11080102	Foreland Slope	G. F. Ulmishek			
+38	11080103	Subsalt Jurassic	G. F. Ulmishek			
+39	1109	Middle Caspian Basin				
+40	110901	Terek-Caspian				
+41	11090101	Foldbelt-Foothills	G. F. Ulmishek			
+42	11090102	Terek-Sunzha Subsalt Jurassic	G. F. Ulmishek			
+43	11090103	Foreland Slope and Foredeep	G. F. Ulmishek			
+44	110902	South Mangyshlak				
+45	11090201	South Mangyshlak (Entire)	G. F. Ulmishek			
+46	110903	Stavropol-Prikumsk				
+47	11090301	Offshore Prikumsk Zone	G. F. Ulmishek			
+48	11090302	Onshore Stavropol-Prikumsk	G. F. Ulmishek			
+49	11090303	Central Caspian Offshore	G. F. Ulmishek			
+50	1112	South Caspian Basin				
+51	111201	Oligocene-Miocene Maykop/Diatom				
+52	11120101	Apsheron-Pribalkhan Zone	G. F. Ulmishek			
+53	11120102	Lower Kura Depression and Adjacent Shelf	G. F. Ulmishek			
+54	11120103	Gograndag-Okarem Zone and Adjacent Shelf	G. F. Ulmishek			
+55	11120104	Central Offshore	G. F. Ulmishek			
+56	11120105	Iran Onshore/Nearshore	G. F. Ulmishek			
+57	1150	North Ustyurt Basin				
+58	115001	Buzachi Arch and Surrounding Areas Composite				
+59	11500101	Mesozoic Sandstone Reservoirs	G. F. Ulmishek			
+60	115002	North Ustyurt Jurassic				
+61	11500201	Jurassic-Tertiary Reservoirs	G. F. Ulmishek			
+62	115003	North Ustyurt Paleozoic				
+63	11500301	Upper Paleozoic Carbonates	G. F. Ulmishek			
+64	1154	Amu-Darya Basin	
+65	115401	Amu-Darya Jurassic-Cretaceous	
+66	11540101	Northern and Western Areas	G. F. Ulmishek
+67	11540102	Karabil-Badkhyz (Southern Area)	G. F. Ulmishek
+68	11540103	Murgab Depression Suprasalt	G. F. Ulmishek
+69	11540104	Murgab Depression Subsalt	G. F. Ulmishek
+70	1174	West Siberian Basin	
+71	117401	Bazhenov-Neocomian	
+72	11740101	Upper Jurassic-Cretaceous Sandstones	G. F. Ulmishek
+73	11740102	Self-Sourced Bazhenov Fractured Reservoirs	G. F. Ulmishek
+74	117402	Togur-Tyumen	
+75	11740201	Pre-Upper Jurassic	G. F. Ulmishek
+76	117403	Northern West Siberian Mesozoic Composite 	
+77	11740301	Northern West Siberian Onshore Gas	G. F. Ulmishek
+78	11740302	South Kara Sea Offshore	G. F. Ulmishek
+79	1207	Baykit Arch	
+80	120701	Yenisey Foldbelt Riphean-Craton Margin Riphean	
+81	12070101	Yenisey Foldbelt Riphean-Craton Margin Riphean	G. F. Ulmishek
+82	1209	Angara-Lena Terrace	
+83	1210	Nepa-Botuoba Arch	
+84	121001	Baikal-Patom Foldbelt Riphean-Craton Margin Vendian	
+85	12100101	Baikal-Patom Foldbelt Riphean-Craton Margin Vendian	G. F. Ulmishek
+86	1211	Cis-Patom Foredeep	
+87	1322	North Sakhalin Basin	
+88	132201	North Sakhalin Neogene	
+89	13220101	Onshore and Offshore Northeastern Shelf	G. F. Ulmishek
+90	2	Middle East and North Africa	
+91	2004	Ma'Rib-Al Jawf/Masila Basin	
+92	200401	Madbi Amran/Qishn	
+93	20040101	Ma'Rib-Al Jawf/Shabwah/Masila	T. S. Ahlbrandt
+94	2014	Ghaba Salt Basin	
+95	201401	North Oman Huqf/'Q'-Haushi	
+96	20140101	Ghaba-Makarem Combined Structural	R. M. Pollastro
+97	2016	Fahud Salt Basin	
+98	201601	North Oman Huqf-Shu'aiba	
+99	20160101	Fahud-Huqf Combined Structural	R. M. Pollastro
+100	201602	Middle Cretaceous Natih	
+101	20160201	Natih-Fiqa Structural/Stratigraphic	R. M. Pollastro
+102	2019	Rub Al Khali Basin	
+103	201901	Cretaceous Thamama/Wasia	
+104	20190101	Cretaceous Reservoirs in Northwest Desert Anticlines	R. M. Pollastro
+105	20190102	Cretaceous Reservoirs in South Gulf Suprasalt Structural	R. M. Pollastro
+106	20190103	Mesozoic/Tertiary Foredeep Fold and Thrust	R. M. Pollastro
+107	201902	Jurassic Hanifa/Diyab-Arab	
+108	20190201	Jurassic Reservoirs in Northwest Desert Anticlines	R. M. Pollastro
+109	20190202	Jurassic Reservoirs in South Gulf Suprasalt/Qatar Arch Structural	R. M. Pollastro
+110	201903	Silurian Qusaiba	
+111	20190301	Khuff Carbonates in Salt Structures	C. J. Schenk
+112	20190302	Paleozoic Reservoirs	C. J. Schenk
+113	2020	Interior Homocline-Central Arch	
+114	2021	Greater Ghawar Uplift	
+115	202101	Central Arabia Qusaiba Paleozoic	
+116	20210101	Central Arch Horst-Block Anticlinal Oil and Gas	R. M. Pollastro
+117	20210102	North Gulf Salt Basin Structural Gas	R. M. Pollastro
+118	202102	Arabian Sub-Basin Tuwaiq/Hanifa-Arab	
+119	20210201	Horst-Block Anticlinal Oil	R. M. Pollastro
+120	20210202	Salt-Involved Structural Oil	R. M. Pollastro
+121	2022	Qatar Arch	
+122	2023	Widyan Basin-Interior Platform	
+123	202301	Paleozoic Qusaiba/Akkas/Abba/Mudawwara	
+124	20230101	Horst/Graben-Related Oil and Gas	T. S. Ahlbrandt
+125	202302	Jurassic Gotnia/Barsarin/Sargelu/Najmah	
+126	20230201	Platform Horst/Graben-Related Oil	T. S. Ahlbrandt
+127	20230202	Basinal Oil and Gas	T. S. Ahlbrandt
+128	2024	Mesopotamian Foredeep Basin	
+129	2029	Wadi-Surhan Basin	
+130	2030	Zagros Fold Belt	
+131	203001	Zagros-Mesopotamian Cretaceous-Tertiary	
+132	20300101	Cretaceous Reservoirs	T. S. Ahlbrandt
+133	20300102	Tertiary Reservoirs	T. S. Ahlbrandt
+134	203002	Paleozoic-Permian/Triassic	
+135	20300201	Northern Qatar Arch Extension	T. S. Ahlbrandt
+136	2043	Sirte Basin	
+137	204301	Sirte-Zelten	
+138	20430101	Southeast Sirte Clastics	T. S. Ahlbrandt
+139	20430102	Central Sirte Carbonates	T. S. Ahlbrandt
+140	20430103	Offshore Sirte Hypothetical	T. S. Ahlbrandt
+141	20430104	Southeast Sirte Hypothetical	T. S. Ahlbrandt
+142	2048	Pelagian Basin	
+143	204801	Bou Dabbous-Tertiary	
+144	20480101	Bou Dabbous-Tertiary Structural/Stratigraphic	T. R. Klett
+145	204802	Jurassic-Cretaceous Composite	
+146	20480201	Jurassic-Cretaceous Structural/Stratigraphic	T. R. Klett
+147	2054	Trias/Ghadames Basin	
+148	205401	Tanezzuft-Oued Mya	
+149	20540101	Tanezzuft-Oued Mya Structural/Stratigraphic	T. R. Klett
+150	205402	Tanezzuft-Melrhir	
+151	20540201	Tanezzuft-Melrhir Structural/Stratigraphic	T. R. Klett
+152	205403	Tanezzuft-Ghadames	
+153	20540301	Tanezzuft-Ghadames Structural/Stratigraphic	T. R. Klett
+154	2056	Illizi Basin	
+155	205601	Tanezzuft-Illizi	
+156	20560101	Tanezzuft-Illizi Structural/Stratigraphic	T. R. Klett
+157	2058	Grand Erg/Ahnet Basin	
+158	205801	Tanezzuft-Timimoun	
+159	20580101	Tanezzuft-Timimoun Structural/Stratigraphic	T. R. Klett
+160	205802	Tanezzuft-Ahnet	
+161	20580201	Tanezzuft-Ahnet Structural/Stratigraphic	T. R. Klett
+162	205803	Tanezzuft-Sbaa	
+163	20580301	Tanezzuft-Sbaa Structural/Stratigraphic	T. R. Klett
+164	205804	Tanezzuft-Mouydir	
+165	20580401	Tanezzuft-Mouydir Structural/Stratigraphic	T. R. Klett
+166	205805	Tanezzuft-Benoud	
+167	20580501	Tanezzuft-Benoud Structural/Stratigraphic	T. R. Klett
+168	205806	Tanezzuft-Bechar/Abadla	
+169	20580601	Tanezzuft-Bechar/Abadla Structural/Stratigraphic	T. R. Klett
+170	2071	Red Sea Basin	
+171	207101	Sudr-Nubia	
+172	20710101	Gulf of Suez Block-Fault Fairway	T. S. Ahlbrandt
+173	20710102	Gulf of Suez Qaa Plain	T. S. Ahlbrandt
+174	20710103	Southern Gulf of Suez	T. S. Ahlbrandt
+175	207102	Maqna	
+176	20710201	Red Sea Coastal Block Faults	T. S. Ahlbrandt
+177	20710202	Red Sea Salt Basin	T. S. Ahlbrandt
+178	3	Asia Pacific	
+179	3115	Junggar Basin	
+180	311501	Lucaogou-Karamay/Ulho/Pindequan	
+181	31150101	Upper Paleozoic/Lower Mesozoic Nonmarine Coarse Clastics	R. T. Ryder
+182	311502	Jurassic Coal-Jurassic/Tertiary	
+183	31150201	Jurassic/Tertiary Fluvial and Lacustrine Sandstone	R. T. Ryder
+184	311503	Lucaogou/Jurassic Coal-Paleozoic/Mesozoic	
+185	31150301	Continuous-Type (Basin-Centered) Gas	R. T. Ryder
+186	3127	Bohaiwan Basin	
+187	312701	Shahejie-Shahejie/Guantao/Wumishan	
+188	31270101	Tertiary Lacustrine	R. T. Ryder
+189	31270102	Pre-Tertiary Buried Hills	R. T. Ryder
+190	312702	Carboniferous/Permian Coal-Paleozoic	
+191	31270201	Coal-Sourced Gas	R. T. Ryder
+192	3128	Ordos Basin	
+193	312801	Yanchang-Yanan	
+194	31280101	Jurassic/Triassic Fluvial and Lacustrine Sandstone	R. T. Ryder
+195	312802	Taiyuan/Shanxi-Majiagou/Shihezi	
+196	31280201	Basin Centered Gas (Continuous) in Ordovician Carbonate and Permian Sandstone	R. T. Ryder
+197	31280202	Carboniferous and Permian Coalbed Methane (Continuous)	R. T. Ryder
+198	3142	Sichuan Basin	
+199	314201	Maokou/Longtang-Jialingjiang/Maokou/Huanglong	
+200	31420101	Southeastern Fold Belt	R. T. Ryder
+201	31420102	Northwestern Depression/Foldbelt	R. T. Ryder
+202	31420103	Continuous Gas in Central Uplift/Northwestern Depression	R. T. Ryder
+203	314202	Daanzhai-Daanzhai/Lianggaoshan	
+204	31420201	Jurassic Lacustrine	R. T. Ryder
+205	314203	Xujiahe-Xujiahe/Shaximiao	
+206	31420301	Continuous Gas in Northwestern Depression/Central Uplift	R. T. Ryder
+207	314204	Cambrian/Silurian Marine Shale-Dengying/Lower Paleozoic	
+208	31420401	Leshan-Longnusi Paleohigh	R. T. Ryder
+209	31420402	Lower Paleozoic of Southeastern Fold Belt	R. T. Ryder
+210	3144	Songliao Basin	
+211	314401	Qingshankou-Putaohua/Shaertu	
+212	31440101	Subtle Traps	R. T. Ryder
+213	31440102	Anticlinal	R. T. Ryder
+214	314402	Jurassic Coal-Denglouku/Nongan	
+215	31440201	Structural Traps	R. T. Ryder
+216	3154	Tarim Basin	
+217	315401	Ordovician/Jurassic-Phanerozoic	
+218	31540101	Tarim Basin Excluding Marginal Foldbelts	R. T. Ryder
+219	31540102	Kuche (Northern) Foldbelt	R. T. Ryder
+220	31540103	Southwest Foldbelt	R. T. Ryder
+221	3701	Baram Delta/Brunei-Sabah Basin	
+222	370101	Brunei-Sabah	
+223	37010101	Brunei-Sabah Deltaics	P. J. McCabe
+224	37010102	Brunei-Sabah Turbidites	P. J. McCabe
+225	3702	Greater Sarawak Basin	
+226	370201	Sarawak Basin	
+227	37020101	Central Luconia	P. J. McCabe
+228	37020102	Balingian	P. J. McCabe
+229	370202	East Natuna	
+230	37020201	East Natuna	P. J. McCabe
+231	3703	Malay Basin	
+232	370301	Oligocene-Miocene Lacustrine	
+233	37030101	South Malay Lacustrine	P. J. McCabe
+234	37030102	North Malay Lacustrine	P. J. McCabe
+235	370302	Miocene Coaly Strata	
+236	37030201	South Malay Coaly	P. J. McCabe
+237	3808	Central Sumatra Basin	
+238	380801	Brown Shale-Sihapas	
+239	38080101	Pematang/Sihapas Siliciclastics	R. T. Ryder
+240	3817	Kutei Basin	
+241	381701	Kutei Basin	
+242	38170101	Kutei Basin Deltaics	P. J. McCabe
+243	38170102	Kutei Basin Turbidites	P. J. McCabe
+244	38170103	Kutei Basin Fold and Thrust Belt	P. J. McCabe
+245	3822	North Sumatra Basin	
+246	382201	Bampo-Cenozoic	
+247	38220101	North Sumatra	R. T. Ryder
+248	38220102	Mergui	R. T. Ryder
+249	3824	Northwest Java Basin	
+250	382401	Banuwati-Oligocene/Miocene	
+251	38240101	Sunda/Asri	R. T. Ryder
+252	382402	Jatibarang/Talang Akar-Oligocene/Miocene	
+253	38240201	Ardjuna	R. T. Ryder
+254	382403	Tertiary-Parigi	
+255	38240301	Biogenic Gas	R. T. Ryder
+256	382404	Tertiary-Cenozoic	
+257	38240401	Billiton Basin Hypothetical	R. T. Ryder
+258	3828	South Sumatra Basin	
+259	382801	Lahat/Talang Akar-Cenozoic	
+260	38280101	South Sumatra	R. T. Ryder
+261	3910	Bonaparte Gulf Basin	
+262	391001	Milligans-Carboniferous/Permian	
+263	39100101	Barnett	T. S. Ahlbrandt
+264	391002	Keyling/Hyland Bay-Permian	
+265	39100201	Petrel	T. S. Ahlbrandt
+266	39100202	Vulcan Graben	T. S. Ahlbrandt
+267	391003	Jurassic/Early Cretaceous-Mesozoic	
+268	39100301	Malita	T. S. Ahlbrandt
+269	3913	Browse Basin	
+270	391301	Late Jurassic/Early Cretaceous-Mesozoic	
+271	39130101	Late Jurassic/Early Cretaceous-Mesozoic	R. T. Ryder
+272	3930	Gippsland Basin	
+273	393001	Latrobe	
+274	39300101	Gippsland	P. J. McCabe
+275	3948	Northwest Shelf	
+276	394801	Dingo-Mungaroo/Barrow	
+277	39480101	Dingo-Mungaroo/Barrow	T. S. Ahlbrandt
+278	394802	Locker-Mungaroo/Barrow	
+279	39480201	Locker-Mungaroo/Barrow	T. S. Ahlbrandt
+280	4	Europe  	
+281	4017	Vestford-Helgeland	
+282	401701	Upper Jurassic Spekk	
+283	40170101	Halten Terrace-Trondelag Platform	D. L. Gautier
+284	40170102	Mid-Norway Continental Margin	D. L. Gautier
+285	4025	North Sea Graben	
+286	402501	Kimmeridgian Shales	
+287	40250101	Viking Graben	D. L. Gautier
+288	40250102	Moray Firth	D. L. Gautier
+289	40250103	Central Graben	D. L. Gautier
+290	4035	Northwest German Basin	
+291	4036	Anglo-Dutch Basin	
+292	403601	Carboniferous-Rotliegend	
+293	40360101	Southern Permian Basin-U.K. Onshore	D. L. Gautier
+294	40360102	Southern Permian Basin-Europe Onshore	D. L. Gautier
+295	40360103	Southern Permian Basin-Offshore	D. L. Gautier
+296	4047	North Carpathian Basin	
+297	404701	Isotopically Light Gas	
+298	40470101	Foreland Basin	M. J. Pawlewicz
+299	404702	Mesozoic/Paleogene Composite	
+300	40470201	Deformed Belt	M. J. Pawlewicz
+301	404703	Paleozoic Composite	
+302	40470301	Paleozoic Reservoirs	M. J. Pawlewicz
+303	4048	Pannonian Basin	
+304	404801	Greater Hungarian Plain Neogene	
+305	40480101	Greater Hungarian Plain Basins	G. L. Dolton
+306	404802	Zala-Drava-Sava Mesozoic/Neogene	
+307	40480201	Zala-Drava-Sava Basins	G. L. Dolton
+308	404803	Danube Neogene	
+309	40480301	Danube Basin	G. L. Dolton
+310	404804	Transcarpathian Neogene	
+311	40480401	Transcarpathian Basin	G. L. Dolton
+312	404805	Central Carpathian Paleogene	
+313	40480501	Central Carpathian Paleogene Basin	G. L. Dolton
+314	404806	Hungarian Paleogene	
+315	40480601	Hungarian Paleogene Basin	G. L. Dolton
+316	4057	Transylvanian Basin	
+317	405701	Transylvanian Composite	
+318	40570101	Transylvanian Neogene Suprasalt Gas	M. J. Pawlewicz
+319	40570102	Transylvanian Subsalt	M. J. Pawlewicz
+320	4060	Po Basin	
+321	406001	Porto Garibaldi	
+322	40600101	Neogene Flysch Gas	D. L. Gautier
+323	406002	Meride/Riva di Solto	
+324	40600201	Thermal Triassic	D. L. Gautier
+325	4061	Carpathian-Balkanian Basin	
+326	406101	Moesian Platform Composite	
+327	40610101	Moesian Platform	M. J. Pawlewicz
+328	406102	Dysodile Schist-Tertiary	
+329	40610201	Romania Flysch Zone	M. J. Pawlewicz
+330	40610202	Romania Ploiesti Zone	M. J. Pawlewicz
+331	4068	Provence Basin	
+332	406801	Pre-Messinian	
+333	40680101	Subsalt	M. J. Pawlewicz
+334	5	North America	
+335	5200	East Greenland Rift Basins	
+336	520001	Permian/Upper Jurassic Composite	
+337	52000101	Northeast Greenland Shelf Rift Systems	M. E. Henry
+338	5215	Labrador-Newfoundland Shelf	
+339	521501	Egret-Hibernia	
+340	52150101	Jeanne d'Arc	L. B. Magoon
+341	521502	Mesozoic Composite	
+342	52150201	Graben Systems Exclusive of Jeanne d'Arc	L. B. Magoon
+343	5243	Alberta Basin	
+344	524301	Keg River-Keg River	
+345	52430101	Keg River Gas	M. E. Henry
+346	52430102	Keg River Oil and Gas	M. E. Henry
+347	524302	Duvernay-Leduc	
+348	52430201	Leduc Gas	M. E. Henry
+349	52430202	Leduc Oil and Gas	M. E. Henry
+350	524303	Exshaw-Rundle	
+351	52430301	Exshaw-Rundle Gas	M. E. Henry
+352	52430302	Exshaw-Rundle Oil and Gas	M. E. Henry
+353	524304	Combined Triassic/Jurassic	
+354	52430401	Combined Triassic/Jurassic Gas	M. E. Henry
+355	52430402	Combined Triassic/Jurassic Oil and Gas	M. E. Henry
+356	524305	Mannville-Upper Mannville	
+357	52430501	Mannville Gas	M. E. Henry
+358	52430502	Mannville Continuous (Basin-Center) Gas	M. E. Henry
+359	524306	Second White Specks-Cardium	
+360	52430601	Second White Specks-Cardium Gas	M. E. Henry
+361	52430602	Second White Specks-Cardium Oil and Gas	M. E. Henry
+362	52430603	Upper Cretaceous Eastern Shallow Gas	M. E. Henry
+363	5244	"Williston Basin, Canada"	
+364	524401	Yeoman	
+365	52440101	Yeoman Oil	M. E. Henry
+366	524402	Brightholme	
+367	52440201	Brightholme Oil	M. E. Henry
+368	524403	Bakken	
+369	52440301	Bakken Sandstone	M. E. Henry
+370	524404	Lodgepole	
+371	52440401	Lodgepole Oil	M. E. Henry
+372	5245	Rocky Mountain Deformed Belt	
+373	5301	Tampico-Misantla Basin	
+374	5302	Veracruz Basin	
+375	5304	Saline-Comalcalco Basin	
+376	5305	Villahermosa Uplift	
+377	530501	Pimienta-Tamabra	
+378	53050101	El Abra-Like Reef and Backreef Limestone	L. B. Magoon
+379	53050102	Tamabra-Like Debris-Flow-Breccia Limestone Overlying Evaporites	L. B. Magoon
+380	53050103	Tamabra-Like Debris-Flow-Breccia Limestone and Overlying Strata	L. B. Magoon
+381	53050104	Tamabra-Like Debris-Flow-Breccia Limestone of the Golden Lane	L. B. Magoon
+382	53050105	Tamaulipas-Like Basinal Limestone and Tertiary Strata Without Underlying Evaporites	L. B. Magoon
+383	53050106	Tamaulipas-Like Basinal Limestone and Tertiary Strata Overlying Evaporites	L. B. Magoon
+384	53050107	Tamabra-Like Debris-Flow-Breccia Limestone North of Campeche	L. B. Magoon
+385	6	Central and South America 	
+386	6021	Guyana-Suriname Basin	
+387	602101	Cenomanian-Turonian	
+388	60210101	Late Cretaceous-Tertiary Turbidites	C. J. Schenk
+389	60210102	Cretaceous Carbonates	C. J. Schenk
+390	60210103	Late Cretaceous-Tertiary Nearshore Sandstones	C. J. Schenk
+391	6022	Foz do Amazonas Basin	
+392	602201	Neogene	
+393	60220101	Amazon Delta and Submarine Fan	C. J. Schenk
+394	60220102	Offshore Gas Hydrates	C. J. Schenk
+395	6029	Sergipe-Alagoas Basin	
+396	602901	Neocomian to Turonian Composite	
+397	60290101	Western Pre-Aptian Reservoirs	C. J. Schenk
+398	60290102	Late Cretaceous-Tertiary Deep-Water Sandstones	C. J. Schenk
+399	6034	Espirito Santo Basin	
+400	603401	Cretaceous Composite	
+401	60340101	Espirito Santo Shelf	C. J. Schenk
+402	60340102	Late Cretaceous-Tertiary Slide Blocks and Turbidites	C. J. Schenk
+403	60340103	Abrolhos Sub-Volcanic Structures	C. J. Schenk
+404	6035	Campos Basin	
+405	603501	Lagoa Feia-Carapebus	
+406	60350101	Late Cretaceous-Tertiary Turbidites	C. J. Schenk
+407	60350102	Cretaceous Carbonates	C. J. Schenk
+408	60350103	Salt Dome Province Tertiary Sandstones	C. J. Schenk
+409	6036	Santos Basin	
+410	603601	Guaratiba-Guaruja (Cretaceous) Composite	
+411	60360101	Santos Shelf	C. J. Schenk
+412	60360102	Salt-Structured Deep-Water Sandstones	C. J. Schenk
+413	6037	Pelotas Basin	
+414	603701	Cenomanian-Turonian-Tertiary Composite	
+415	60370101	Pelotas Platform and Basin	C. J. Schenk
+416	60370102	Offshore Gas Hydrates	C. J. Schenk
+417	6041	Putumayo-Oriente-Maranon Basin	
+418	604101	Mesozoic-Cenozoic	
+419	60410101	Hollin-Napo	D. K. Higley
+420	60410102	Basin-Center Gas	D. K. Higley
+421	604102	Paleozoic	
+422	60410201	Ene	D. K. Higley
+423	6045	Santa Cruz-Tarija Basin	
+424	604501	Los Monos-Machareti	
+425	60450101	Sub-Andean Fold and Thrust Belt	C. J. Schenk
+426	60450102	Foreland Basins	C. J. Schenk
+427	60450103	Foreland Central Chaco High	C. J. Schenk
+428	6055	Neuquen Basin	
+429	605501	Neuquen Hybrid	
+430	60550101	Neuquen Extensional Structures	C. J. Schenk
+431	60550102	Neuquen Foothills Structure	C. J. Schenk
+432	60550103	Dorsal de Neuquen Structure	C. J. Schenk
+433	6058	San Jorge Basin	
+434	605801	D-129	
+435	60580101	San Jorge Extensional Structures	C. J. Schenk
+436	60580102	San Bernardo Fold Belt Structures	C. J. Schenk
+437	605802	Aguada Bandera	
+438	60580201	Hypothetical Basin-Centered Gas	C. J. Schenk
+439	6059	Magallanes Basin	
+440	605901	Lower Inoceramus	
+441	60590101	Magallanes Extensional Structures	C. J. Schenk
+442	60590102	Andean Fold Belt Structures	C. J. Schenk
+443	6060	Falklands Plateau	
+444	606001	Neocomian Lacustrine	
+445	60600101	North Falklands Basin	C. J. Schenk
+446	606002	Lower Cretaceous	
+447	60600201	South Falklands Basin	C. J. Schenk
+448	6063	Malvinas Basin	
+449	606301	Lower Cretaceous Marine	
+450	60630101	Malvinas Extensional Structures	C. J. Schenk
+451	6081	Talara Basin	
+452	608101	Cretaceous-Tertiary	
+453	60810101	Cretaceous-Paleogene Basin	D. K. Higley
+454	6083	Progreso Basin	
+455	608301	Neogene	
+456	60830101	Neogene Pull-Apart Basin	D. K. Higley
+457	608302	Cretaceous-Paleogene	
+458	60830201	Cretaceous-Paleogene Santa Elena Block	D. K. Higley
+459	6090	Middle Magdalena	
+460	609001	La Luna-La Paz	
+461	60900101	Northern	L. B. Magoon
+462	60900102	Southern	L. B. Magoon
+463	60900103	Eastern	L. B. Magoon
+464	60900104	La Luna and Older	L. B. Magoon
+465	6096	Llanos Basin	
+466	609601	Gacheta-Mirador	
+467	60960101	Central	L. B. Magoon
+468	60960102	Peripheral	L. B. Magoon
+469	6098	East Venezuela Basin	
+470	609801	Querecual	
+471	60980101	East Venezuela Fold and Thrust Belt	C. J. Schenk
+472	60980102	Guarico Sub-Basin	C. J. Schenk
+473	60980103	Maturin Sub-Basin	C. J. Schenk
+474	60980104	Orinoco Heavy Oil and Tar Belt	C. J. Schenk
+475	609802	Upper Cretaceous/Tertiary	
+476	60980201	Trinidad Basins	C. J. Schenk
+477	60980202	Orinoco Delta and Offshore	C. J. Schenk
+478	6099	Maracaibo Basin	
+479	609901	La Luna/Maracaibo	
+480	60990101	Main Maracaibo Basin	C. J. Schenk
+481	60990102	Southwest Maracaibo Basin Fold Belt	C. J. Schenk
+482	60990103	Basin-Centered Gas	C. J. Schenk
+483	6103	Tobago Trough	
+484	610301	Lower Cruse	
+485	61030101	Carupano Basin Gas	C. J. Schenk
+486	6107	Lesser Antilles Deformed Belt	
+487	610701	Tobago Trough Paleogene	
+488	61070101	Inner Forearc Deformation Belt	C. J. Schenk
+489	6117	Greater Antilles Deformed Belt	
+490	611701	Upper Jurassic-Neocomian	
+491	61170101	North Cuba Fold and Thrust Belt	C. J. Schenk
+492	7	Sub-Saharan Africa and Antarctica  	
+493	7013	Senegal	
+494	701301	Cretaceous-Tertiary Composite	
+495	70130101	Coastal Plain and Offshore	M. E. Brownfield
+496	7183	Gulf of Guinea	
+497	718301	Cretaceous Composite	
+498	71830101	Coastal Plain and Offshore	R. R. Charpentier
+499	7192	Niger Delta	
+500	719201	Tertiary Niger Delta (Agbada/Akata)	
+501	71920101	Agbada Reservoirs	M. L. Tuttle
+502	71920102	Akata Reservoirs	M. L. Tuttle
+503	7203	West-Central Coastal	
+504	720301	Melania-Gamba	
+505	72030101	Gabon Subsalt	R. R. Charpentier
+506	720302	Azile-Senonian	
+507	72030201	Gabon Suprasalt	R. R. Charpentier
+508	720303	Congo Delta Composite	
+509	72030301	Central Congo Delta and Carbonate Platform	R. R. Charpentier
+510	72030302	Central Congo Turbidites	R. R. Charpentier
+511	720304	Cuanza Composite	
+512	72030401	Cuanza-Namibe	R. R. Charpentier
+513	7303	Orange River Coastal	
+514	730301	Cretaceous Composite	
+515	73030101	Offshore	R. R. Charpentier
+516	8	South Asia	
+517	8026	Kohat-Potwar	
+518	802601	Patala-Namal	
+519	80260101	Kohat-Potwar Intrathrust Basin	C. J. Wandrey
+520	8034	Assam	
+521	803401	Sylhet-Kopili/Barail-Tipam Composite	
+522	80340101	Sylhet-Kopili/Barail-Tipam Composite	C. J. Wandrey
+523	8042	Indus	
+524	804201	Sembar-Goru/Ghazij	
+525	80420101	Greater Indus Foreland and Foldbelt	C. J. Wandrey
+526	80420102	Indus Fan	C. J. Wandrey
+527	8043	Bombay	
+528	804301	Eocene-Miocene Composite	
+529	80430101	Eocene-Miocene Bombay Shelf	C. J. Wandrey
+530	80430102	Eocene-Miocene Cambay Deltaic	C. J. Wandrey
+531	8047	Ganges-Brahmaputra Delta	
+532	804701	Permian Coal	
+533	80470101	Coalbed Gas	R. C. Milici
+534	804702	Jalangi-Sylhet/Burdwan Composite	
+535	80470201	Western Shelf and Slope	R. C. Milici
+536	804703	Jenam/Bhuban-Bokabil	
+537	80470301	Central Basin	R. C. Milici
+538	80470302	Eastern Fold Belt	R. C. Milici
+539	8048	Irrawaddy	
+540	804801	Eocene to Miocene Composite	
+541	80480101	Central Burma Basin	C. J. Wandrey
+542	80480102	Irrawaddy-Andaman	C. J. Wandrey
